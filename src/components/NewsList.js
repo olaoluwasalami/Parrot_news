@@ -16,7 +16,7 @@ const NewsList = (props) => {
 return (
         <div>
             <h2 className="tc">Latest news on Tech Today</h2>
-                  <div className=" tc">{news}   </div>
+                  <div className=" tc ma4">{news}   </div>
                              
 
         </div>
